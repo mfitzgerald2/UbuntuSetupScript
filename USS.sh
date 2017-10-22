@@ -1,10 +1,10 @@
 #!/bin/bash
 echo  _   _ _____ _____ 
-echo | | | /  ___/  ___|
-echo | | | \ `--.\ `--. 
-echo | | | |`--. \`--. \
-echo | |_| /\__/ /\__/ /
-echo  \___/\____/\____/ 
+echo '| | | /  ___/  ___|'
+echo '| | | \ `--.\ `--. '
+echo '| | | |`--. \`--. \'
+echo '| |_| /\__/ /\__/ /'
+echo  '\___/\____/\____/' 
 echo 
 echo The Ubuntu Setup Script - Copyright 2017 Matthew Fitzgerald
 echo 
