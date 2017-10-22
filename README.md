@@ -3,12 +3,12 @@ This script is a bash script to run on a freshly installed Ubuntu system that wi
 
 # How to Use
 Get the file...
-`wget `
+`wget https://raw.githubusercontent.com/mfitzgerald2/UbuntuSetupScript/master/USS.sh`
 
-Make sure you have permissions to run it. 
+Make sure you have permissions to run it... 
 `chmod 700 uss.sh`
 
-Run it.
+Run it...
 `./uss.sh`
 
 # References
