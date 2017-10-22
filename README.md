@@ -6,10 +6,10 @@ Get the file...
 `wget https://raw.githubusercontent.com/mfitzgerald2/UbuntuSetupScript/master/USS.sh`
 
 Make sure you have permissions to run it... 
-`chmod 700 uss.sh`
+`chmod 700 USS.sh`
 
 Run it...
-`./uss.sh`
+`./USS.sh`
 
 # References
 The bloatware removal code was adapted from Nick Seagull. 
