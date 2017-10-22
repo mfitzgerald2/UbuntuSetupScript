@@ -1,10 +1,19 @@
 #!/bin/bash
-
+echo  _   _ _____ _____ 
+echo | | | /  ___/  ___|
+echo | | | \ `--.\ `--. 
+echo | | | |`--. \`--. \
+echo | |_| /\__/ /\__/ /
+echo  \___/\____/\____/ 
+echo 
+echo The Ubuntu Setup Script - Copyright 2017 Matthew Fitzgerald
+echo 
 echo This Setup Script for Ubuntu will remove all bloatware from the computer, make sure that some standard utilities are installed, and make sure Ubuntu is up to date. 
+echo 
 echo This script is being ran by $USER on $HOSTNAME.
 echo This script will only work of the above user is a memer of the sudoers group.
-read -p 'Type 1 if the user is a member of the sudoers group and you wish to continue' cont
-if $cont == 1
+read -p 'Type 1 if the user is a member of the sudoers group and you wish to continue: ' cont
+if [ $cont = 1 ]
 then
     echo Continuing the Script!
     echo Currently Updating Packages and Repositories...
